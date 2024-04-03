@@ -2,9 +2,9 @@
 
 ## Team(ML_4조)
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![김정헌](https://avatars.githubusercontent.com/u/156163982?v=4) | ![지수영](https://avatars.githubusercontent.com/u/156163982?v=4) | ![유현지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박주혁](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민혁](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
+|            [김정헌](https://github.com/UpstageAILab)             |            [지수영](https://github.com/UpstageAILab)             |            [유현지](https://github.com/UpstageAILab)             |            [박주혁](https://github.com/UpstageAILab)             |            [김민혁](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
