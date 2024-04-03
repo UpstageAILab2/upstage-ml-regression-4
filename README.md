@@ -373,7 +373,7 @@ a. 전화번호, 팩스번호
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- https://github.com/UpstageAILab2/upstage-ml-regression-4/blob/f82b22bd86bf28f712d618623c46737d33a5035e/docs/pdf/4%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
 
 
 ### 진행 소감
